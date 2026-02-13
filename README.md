@@ -1,2 +1,2 @@
 # eco-waste-classification-system
-Videojuego web educativo para la clasificación de residuos sólidos mediante interacción gamificada. Incluye validación de respuestas y separación de elementos según normativa ambiental.
+Educational web-based video game for classifying solid waste through gamified interaction. Includes answer validation and separation of items according to environmental regulations.
