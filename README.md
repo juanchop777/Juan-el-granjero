@@ -1,2 +1,2 @@
 # eco-waste-classification-system
-“Juan el Granjero” es un juego educativo donde ayudas a un granjero a clasificar residuos en canecas de colores, responder preguntas sobre la unidad avícola y separar elementos como EPP y RAE. Supera tres fases, gana puntos y contribuye al cuidado ambiental en una granja de manera divertida e interactiva.
+Videojuego web educativo para la clasificación de residuos sólidos mediante interacción gamificada. Incluye validación de respuestas y separación de elementos según normativa ambiental.
